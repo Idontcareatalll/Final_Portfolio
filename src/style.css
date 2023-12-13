@@ -1,0 +1,26 @@
+
+.about-me  
+{
+  background: green;
+}
+
+.paragraph  
+{
+  color: black;
+}
+
+.engine-information  
+{
+  background: bisque;
+}
+
+.photo 
+{
+  border-radius: 2%;
+}
+
+#links 
+{
+  text-align: center;
+  color: blue;
+}
